@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1621093245 source:c:\users\kira\documents\win32\main.c
+	<windows.h>
+	<stdio.h>
+	<myconio.h>
+	"liste.h"
+	"res.h"
+
+1621093298 source:c:\users\kira\documents\win32\liste.c
+	<stdio.h>
+	"liste.h"
+	<string.h>
+	<malloc.h>
+	<ctype.h>
+
+1621003555 c:\users\kira\documents\win32\liste.h
+	<stdio.h>
+
+1621007714 c:\users\kira\documents\win32\res.h
+
+1621007843 source:c:\users\kira\documents\win32\resources.rc
+	"res.h"
+
+1621007843 source:c:\users\adel1\downloads\win32\win32\resources.rc
+	"res.h"
+
+1621007714 c:\users\adel1\downloads\win32\win32\res.h
+
+1621126557 source:c:\users\adel1\downloads\win32\win32\liste.c
+	<stdio.h>
+	"liste.h"
+	<string.h>
+	<malloc.h>
+	<ctype.h>
+
+1621125772 c:\users\adel1\downloads\win32\win32\liste.h
+	<stdio.h>
+
+1621126743 source:c:\users\adel1\downloads\win32\win32\main.c
+	<windows.h>
+	<stdio.h>
+	<myconio.h>
+	"liste.h"
+	"res.h"
+
+1621266042 source:c:\users\dali\downloads\win32-20210517t121203z-001\win32\liste.c
+	<stdio.h>
+	"liste.h"
+	<string.h>
+	<malloc.h>
+	<ctype.h>
+
+1621264603 c:\users\dali\downloads\win32-20210517t121203z-001\win32\liste.h
+	<stdio.h>
+
+1621266369 source:c:\users\dali\downloads\win32-20210517t121203z-001\win32\main.c
+	<windows.h>
+	<stdio.h>
+	<myconio.h>
+	"liste.h"
+	"res.h"
+
+1620971714 c:\users\dali\downloads\win32-20210517t121203z-001\win32\res.h
+
+1620971842 source:c:\users\dali\downloads\win32-20210517t121203z-001\win32\resources.rc
+	"res.h"
+
+1620975442 source:c:\users\kira\desktop\win32-20210517t121203z-001\resources.rc
+	"res.h"
+
+1621348660 c:\users\kira\desktop\win32-20210517t121203z-001\res.h
+
+1622064886 source:c:\users\kira\desktop\win32-20210517t121203z-001\liste.c
+	<stdio.h>
+	"liste.h"
+	<string.h>
+	<malloc.h>
+	<ctype.h>
+	<assert.h>
+	<myconio.h>
+
+1621878414 c:\users\kira\desktop\win32-20210517t121203z-001\liste.h
+	<stdio.h>
+
+1622064769 source:c:\users\kira\desktop\win32-20210517t121203z-001\main.c
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	"res.h"
+	"liste.h"
+
